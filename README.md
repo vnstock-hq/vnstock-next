@@ -97,4 +97,30 @@ Tên | Stars | Folks | Mô tả
 [pyfolio](https://github.com/quantopian/pyfolio) | 5.3k | 1.7k | Quản lý danh mục
 [pandas_ta](https://github.com/twopirllc/pandas-ta/tree/main) | 4.3k | 871 | Phân tích kỹ thuật
 
-
+# Endpoints
+1. stock
+  - chart: dữ liệu vẽ đồ thị và tính toán chỉ báo kỹ thuật
+    - search
+    - info: thông tin cơ bản về mã cổ phiếu
+    - candles: dữ liệu giá vẽ đồ thị nến, OHLCV
+  - trade
+    - quote: dữ liệu khớp lệnh (dạng bảng chi tiết)
+    - foreign_trade
+    - proprietary_trade
+  - fundamental
+    - company
+      - overview: mô tả ngắn
+      - profile: Mô tả dài cho từng công ty
+      - shareholder
+      - officer
+      - subsidiary
+      - insider_deal
+      - event
+      - news
+    - finance
+      - ratio
+      - report
+    - earning
+    - dividend
+  - analysis
+    - valuation
