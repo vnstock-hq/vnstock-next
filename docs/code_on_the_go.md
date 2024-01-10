@@ -17,3 +17,4 @@ Các bước thực hiện:
 ![image](./assets/2.stage_changes_replit_github.png)
 3. Commit
 ![image](./assets/2._sync_replit_github.png)
+4. Push commits

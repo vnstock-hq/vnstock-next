@@ -14,6 +14,7 @@
 - **Mô hình dữ liệu đầu ra cố định & chặt chẽ** giúp dễ dàng lưu trữ vào cơ sở dữ liệu hoặc chuyển làm nguồn cấp cho các ứng dụng được liên kết để mở rộng tính năng. Ví dụ kết hợp các ứng dụng TA, Backtest, phân tích portfolio hiện có. Cân nhắc naming convention sử dụng `snake_case`
 - **Hỗ trợ automation testing** giúp giảm thời gian kiểm tra, dễ phát hiện lỗi để đẩy nhanh thời gian phát hành khi quy mô của thư viện được mở rộng.
 - **Tối ưu cho performance**. Cân nhắc sử dụng kết hợp với [Polar](https://pola.rs/) cho các thành phần tính toán ưu tiên tốc độ xử lý và đa luồng.
+- **Cung cấp giải thích ý nghĩa của dữ liệu trả về** (optional)
 
 
 ## Cấu trúc thư viện
