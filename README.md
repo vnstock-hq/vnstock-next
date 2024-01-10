@@ -124,3 +124,26 @@ Tên | Stars | Folks | Mô tả
     - dividend
   - analysis
     - valuation
+2. crypto
+  - chart
+    - search
+    - info
+    - candles
+  - trade
+    - quote
+3. forex
+  - chart
+    - search
+    - info
+    - candles
+  - trade
+    - quote
+4. commodity
+  - asset
+    - gold
+      - chart
+        - search
+        - info
+        - candles
+      - trade
+        - quote
