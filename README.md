@@ -81,6 +81,7 @@ Tên | Mô tả
 [IEX Cloud](https://iexcloud.io/docs/core/QUOTE) | Tham khảo cách cấu trúc các nhóm dữ liệu
 [Nasdaq DataLink](https://docs.data.nasdaq.com/docs/data-organization) | 
 [Refinitive](https://www.lseg.com/en/data-analytics/financial-data) | Microsoft 365 tích hợp sẵn cho Excel
+[Fiinhub](https://finnhub.io/docs/api/forex-symbols) |
 
 #### Việt Nam
 - Wefeed
